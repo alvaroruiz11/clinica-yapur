@@ -1,4 +1,4 @@
-import { Doctor } from '../../data/doctores';
+import { Doctor } from '../../data';
 import { CardDoctor } from './CardDoctor';
 
 interface Props {
