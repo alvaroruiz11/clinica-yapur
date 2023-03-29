@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://alvaroruiz11.github.io/clinica-yapur",
+  "homepage": "https://alvaroruiz11.github.io/clinica-yapur/dist",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
